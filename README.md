@@ -65,13 +65,23 @@
 
 ---
 
+
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ushabinwar&show_icons=true&theme=react" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ushabinwar&theme=react" />
+
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushabinwar&layout=compact&theme=react" />
+
+
 </p>
 
 ---
@@ -95,6 +105,9 @@
 ---
 
 <p align="center">⭐ Always eager to learn, build, and grow as a Full-Stack Developer</p>
+<!--<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ushabinwar&color=blue&style=for-the-badge" alt="Usha Binwar Profile Views" />
+</p>-->
 
 
 
